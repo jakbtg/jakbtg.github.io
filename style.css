@@ -5,3 +5,7 @@ body {
     font-family: 'Jost', sans-serif;
     text-align: center;
 }
+
+.clipped {
+    clip-path: circle();
+}
