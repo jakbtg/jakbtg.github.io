@@ -30,6 +30,12 @@ p {
 }
 
 .rounded {
-    border-radius: 3%;
-    margin: 1%;
+    border-radius: 25px;
+    margin-top: auto;
+}
+
+/* Remove underlines from links */
+a {
+    color: white;
+    text-decoration: none;
 }
