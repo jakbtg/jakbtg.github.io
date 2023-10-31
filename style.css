@@ -10,9 +10,15 @@ body {
 }
 
 h1 {
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 3em;
     margin: 0;
+}
+
+h2 {
+    /* font-weight: bold; */
+    font-size: 2em;
+    text-align: left;
 }
 
 p {
@@ -21,4 +27,9 @@ p {
 
 .clipped {
     clip-path: circle();
+}
+
+.rounded {
+    border-radius: 3%;
+    margin: 1%;
 }
