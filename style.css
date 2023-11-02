@@ -1,30 +1,23 @@
 @font-face {
     font-family: 'Mona Sans';
     src:
-      url('../fonts/MonaSans/Mona-Sans.woff2') format('woff2 supports variations'),
-      url('../fonts/MonaSans/Mona-Sans.woff2') format('woff2-variations');
+      url('../fonts/Mona-Sans.woff2') format('woff2 supports variations'),
+      url('../fonts/Mona-Sans.woff2') format('woff2-variations');
     font-weight: 200 900;
     font-stretch: 75% 125%;
 }
-
-@font-face {
-    font-family: 'Mona Sans Fallback';
-    size-adjust: 108.5%;
-    ascent-override: 82%;
-    src: local(Arial);
-  }
   
 @font-face {
     font-family: 'Hubot Sans';
     src:
-      url('../fonts/HubotSans/Hubot-Sans.woff2') format('woff2 supports variations'),
-      url('../fonts/HubotSans/Hubot-Sans.woff2') format('woff2-variations');
+      url('../fonts/Hubot-Sans.woff2') format('woff2 supports variations'),
+      url('../fonts/Hubot-Sans.woff2') format('woff2-variations');
     font-weight: 200 900;
     font-stretch: 75% 125%;
 }
 
 html {
-    font-family: 'Mona Sans', 'Mona Sans Fallback', sans-serif;
+    font-family: 'Mona Sans', sans-serif;
 }
 
 body {
@@ -35,7 +28,6 @@ body {
     background: rgb(10, 33, 42);
     color: white;
     text-align: center;
-    font-family: 'Mona Sans', 'Mona Sans Fallback', sans-serif;
 }
 
 #center_container{
