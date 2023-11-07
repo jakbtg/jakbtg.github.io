@@ -47,6 +47,12 @@ h2 {
     margin-bottom: 0%;
 }
 
+h3 {
+    font-size: 1.6em;
+    text-align: left;
+    margin-bottom: 2%;
+}
+
 p {
     text-align: left;
     margin-top: 0.5%;
@@ -84,4 +90,6 @@ a.img {
 ul {
     list-style-type: disc;
     text-align: left;
+    margin-left: 0%;
+    padding-left: 2.5%;
 }
