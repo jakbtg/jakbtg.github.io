@@ -4,7 +4,7 @@
       url('/fonts/Mona-Sans.woff2') format('woff2 supports variations'),
       url('/fonts/Mona-Sans.woff2') format('woff2-variations');
     font-weight: 200 900;
-    font-stretch: 75% 125%;
+    font-stretch: 105% 125%;
 }
   
 @font-face {
@@ -48,7 +48,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.6em;
+    font-size: 1.5em;
     text-align: left;
     margin-bottom: 2%;
 }
