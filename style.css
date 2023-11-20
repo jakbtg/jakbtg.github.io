@@ -78,7 +78,8 @@ a {
     border-radius: 8px;
     text-decoration: underline;
     text-decoration-thickness: 2px;
-    text-decoration-color: orange;
+    text-decoration-color: #ffcc00;
+    /* text-decoration-color: orange; */
     font-weight: bold;
 }
 
