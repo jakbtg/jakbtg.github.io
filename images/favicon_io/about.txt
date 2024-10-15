@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Roboto Slab
-- Font Author: Copyright 2018 The Roboto Slab Project Authors (https://github.com/googlefonts/robotoslab)
-- Font Source: http://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaG5iddG-1A.ttf
-- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+- Font Title: Poppins
+- Font Author: Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+- Font Source: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJDUc1NECPY.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
